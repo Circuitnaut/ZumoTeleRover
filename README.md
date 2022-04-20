@@ -43,72 +43,65 @@ Before you get started, make sure you have the following ready...
 
 ## Inventory your parts
 
+<br>
+
 ### Hardware
 
-- Raspberry Pi Computer
+<u> **Raspberry Pi Computer** </u>
     
 
-![RaspberryPi4](https://user-images.githubusercontent.com/3383005/163280242-ff1b55ea-3cee-4776-bcc1-21e342e2cf6a.png)
+<img src="https://user-images.githubusercontent.com/3383005/163280242-ff1b55ea-3cee-4776-bcc1-21e342e2cf6a.png" width="400">
 
 
-- Micro SD Card with SD card adapter
+<u> **Micro SD Card with SD card adapter** </u>
  
+<img src="https://user-images.githubusercontent.com/3383005/163280266-2af33058-9803-4ae9-b575-decd9d04d155.jpg" width="400">
 
-![microSDCard](https://user-images.githubusercontent.com/3383005/163280266-2af33058-9803-4ae9-b575-decd9d04d155.jpg)
+
+<u> **Arduino Uno R3 micro controller** </u>
+  
+<img src="https://user-images.githubusercontent.com/3383005/163280280-83fa904a-190e-41c8-acad-9b4f1d5a4378.jpg" width="400">
 
 
-- Arduino Uno R3 micro controller
+
+<u> **Zumo Robot for Arduino, v1.2** </u>
+  
+<img src="https://user-images.githubusercontent.com/3383005/163280290-7a48b495-3bdc-4a67-bc80-4f95b9f9b582.jpg" width="400">
+
+
+
+<u> **Raspberry Pi Fish-eye Camera** </u>
+  
+<img src="https://user-images.githubusercontent.com/3383005/163280310-1535243c-cceb-4d2b-a808-ddf15caa0386.jpg" width="400">
+
+
+<u> **SG90 Servo Motor** </u>
   
 
-![ArduinoR3](https://user-images.githubusercontent.com/3383005/163280280-83fa904a-190e-41c8-acad-9b4f1d5a4378.jpg)
+<img src="https://user-images.githubusercontent.com/3383005/163280314-c9d543e4-d9e8-44b5-aa2f-c44931bb0c50.jpg" width="400">
 
 
-
-- Zumo Robot for Arduino, v1.2
+<u> **POWERADD Energy Cell Portable USB Charger** </u>
   
-
-![ZumoRobot](https://user-images.githubusercontent.com/3383005/163280290-7a48b495-3bdc-4a67-bc80-4f95b9f9b582.jpg)
-
+<img src="https://user-images.githubusercontent.com/3383005/163280321-bd9ab8c4-c213-4b51-bf47-e2be202650f1.jpg" width="400">
 
 
-- Raspberry Pi Fish-eye Camera
+
+<u>**USB-A to USB-C male to male cable**</u>
   
+<img src="https://user-images.githubusercontent.com/3383005/163280341-9804eeeb-99ba-4a13-8261-f2125683fb90.jpg" width="400">
 
-![FisheyeCamera](https://user-images.githubusercontent.com/3383005/163280310-1535243c-cceb-4d2b-a808-ddf15caa0386.jpg)
 
 
-- SG90 Servo Motor
+<u>**USB-A to USB-B male to male cable**</u>
   
+<img src="https://user-images.githubusercontent.com/3383005/163280355-44c1c8a7-8791-4914-9b6d-0fb46b25b74f.jpg" width="400">
 
 
-![SG90Servo](https://user-images.githubusercontent.com/3383005/163280314-c9d543e4-d9e8-44b5-aa2f-c44931bb0c50.jpg)
 
-
-- POWERADD Energy Cell Portable USB Charger
+**Header pins**
   
-
-![PoweraddEnergyCell](https://user-images.githubusercontent.com/3383005/163280321-bd9ab8c4-c213-4b51-bf47-e2be202650f1.jpg)
-
-
-
-- USB-A to USB-C male to male cable
-  
-
-![usbatoc](https://user-images.githubusercontent.com/3383005/163280341-9804eeeb-99ba-4a13-8261-f2125683fb90.jpg)
-
-
-
-- USB-A to USB-B male to male cable
-  
-
-![usbatob](https://user-images.githubusercontent.com/3383005/163280355-44c1c8a7-8791-4914-9b6d-0fb46b25b74f.jpg)
-
-
-
-- Header pins
-  
-
-![headers_](https://user-images.githubusercontent.com/3383005/163280362-3b61ad12-b006-4a4e-ac0d-ed775540c209.jpg)
+<img src="https://user-images.githubusercontent.com/3383005/163280362-3b61ad12-b006-4a4e-ac0d-ed775540c209.jpg" width="400">
 
 
 
