@@ -1,5 +1,10 @@
 # ZumoTeleRover
 
+Description: A electric tank track rover that provides a video feed and tank control over a reverse TCP connection allowing anyone in the world with the right URL and credentials to tap into the connection and control the rover. The tank chassis and controls are based off Pololu's Zumo platform, the motor controller Arduino Uno, and the server for the connection as well as the website provided by raspberry pi.
+
+![20210217_224053](https://user-images.githubusercontent.com/3383005/163281605-4ddbc04a-5d8b-4b1b-841a-f43a97b21da4.jpg)
+
+
 <br>
 
 # Zumo Tele-Rover Instructions
